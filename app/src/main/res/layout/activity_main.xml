@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0A2B2929"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="100dp"
+        android:text="fluig"
+        android:textColor="#9C000000"
+        android:textSize="60dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="-14dp"
+        android:layout_marginRight="16dp"
+        android:text="FLOWING"
+        android:textColor="#81000000"
+        android:textSize="7dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="-2dp"
+        android:layout_marginRight="7dp"
+        android:text="PRODUCTIVITY"
+        android:textColor="#81000000"
+        android:textSize="7dp" />
+
+    <ImageView
+        android:layout_width="111dp"
+        android:layout_height="106dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="-75dp"
+        android:layout_marginRight="120dp"
+        android:layout_marginBottom="-110dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="20dp"
+        android:src="@drawable/fogo"
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="160dp"
+        android:text="Bem-vindo ao fluig"
+        android:textColor="#CB000000"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:text="Antes de começar, adicione sua conta do"
+        android:textColor="#CB000000"
+        android:textSize="19dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="0dp"
+        android:text="fluig"
+        android:textColor="#CB000000"
+        android:textSize="19dp" />
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#43AE47"
+        android:paddingLeft="100dp"
+        android:text="Minha conta fluig"
+        android:textColor="#fff" />
+
+    <EditText
+
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#fff"
+        android:paddingLeft="114dp"
+        android:text="Demonstração"
+        android:textColor="#43AE47" />
+
+
+</LinearLayout>
